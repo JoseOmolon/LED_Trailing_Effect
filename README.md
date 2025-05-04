@@ -19,7 +19,7 @@ I’m not here to make flashy demos—I’m here to master the foundations. This
 
 ## 🔩 Parts I Used
 
-![Components](ComponentParts.png)
+![Components](ComponentParts.jpg)
 
 ---
 
