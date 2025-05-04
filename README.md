@@ -60,24 +60,22 @@ void loop() {
   }
 }
 ```
-🧠 The Concept
+---
+
+## 🧠 The Concept
 Each LED lights up in order—like a moving wave. It’s a primitive chase effect. This type of animation is found everywhere: from Knight Rider lights to marquee signs to low-level signal debugging. What matters here is the loop logic and hardware interaction.
+
+---
 
 🎬 Final Result
 
 When those LEDs chased each other across the board, I didn’t just see lights—I saw timing control, loop discipline, and the start of real animation.
 
+![Trailing LED](TrailingLED.gif)
+
+---
 
 
-🧱 What’s Next
-Add reverse chasing (bounce effect)
-
-Use millis() instead of delay() (non-blocking)
-
-Add a button to change animation patterns
-
-Try PWM fading for smooth transitions
-
-💬 Final Thoughts
+## 💬 Final Thoughts
 This is more than wiring and more than code—this is grit in action.
 You want to learn embedded systems? You’ve got to build with your hands and debug with your brain. Start with one LED. Then make them dance. That’s how you earn it.
