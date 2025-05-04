@@ -73,6 +73,9 @@ When those LEDs chased each other across the board, I didn’t just see lights�
 
 ![Trailing LED](TrailingLED.gif)
 
+🎥 **Watch the Full Project Video on YouTube:**  
+👉 [https://youtu.be/5EFMQ1mS4hI](https://youtu.be/5EFMQ1mS4hI)
+
 ---
 
 
