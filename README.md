@@ -17,7 +17,7 @@ I’m not here to make flashy demos—I’m here to master the foundations. This
 
 ---
 
-## 🔩 Parts I Used
+## 🔩 Parts I Used 12345
 
 ![Components](ComponentParts.jpg)
 
