@@ -1,5 +1,5 @@
 # LED-Trailing-Effect
-## Trailing LED Animation – "Control, Timing, and Precision" 12345
+## Trailing LED Animation – "Control, Timing, and Precision" 1234
 
 The second step in my embedded journey. This isn’t just a blink anymore—this is **timed LED movement**. Like a digital ripple through hardware. It’s a simple visual effect, but behind it lies the mastery of timing, loops, and microcontroller I/O control.
 
