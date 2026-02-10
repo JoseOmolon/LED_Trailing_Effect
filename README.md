@@ -23,7 +23,7 @@ I’m not here to make flashy demos—I’m here to master the foundations. This
 
 ---
 
-## 📈 Schematics 1
+## 📈 Schematics 
 
 ![Schematics](Schematics.png)
 
