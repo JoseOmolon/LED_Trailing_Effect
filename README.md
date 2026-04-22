@@ -5,7 +5,7 @@ The second step in my embedded journey. This isn’t just a blink anymore—this
 
 ---
 
-## 🧭 Why This Matters 12
+## 🧭 Why This Matters 1
 
 I’m not here to make flashy demos—I’m here to master the foundations. This LED trail effect is my second milestone. It’s about controlling multiple outputs in sequence with precision. This is what separates button mashers from embedded engineers.
 
